@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sameer Mishra</h1>
-<h3 align="center">A passionate MERN developer & entrepreneur from India</h3>
+<h3 align="center">A passionate MERN developer & entrepreneur.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-mishra1&label=Profile%20views&color=0e75b6&style=flat" alt="Sameer Mishra" /> </p>
 
