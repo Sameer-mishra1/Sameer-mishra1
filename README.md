@@ -23,7 +23,9 @@ I am a Full Stack Developer & an entrepreneur!
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I loved to read, be it books or articles or news!
+- :zap: In my free time, I love to read, be it books or articles or news!
+
+- :pray: I am also fond of meditation. Peace of mind is my top most priority.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-) [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)](mailto:sameermishra6666@gmail.com)
 
