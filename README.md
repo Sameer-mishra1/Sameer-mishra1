@@ -21,7 +21,7 @@
 I am a Full Stack Developer & an entrepreneur!
 - :telescope: I’m contributing to frontend and backend of web applications.
 
-- :seedling: Currently I am learning TypeScript & exploring Technical Content Writing.
+- :seedling: Currently I am learning TypeScript, Postgres & exploring Technical Content Writing.
 
 - :zap: In my free time, I love to read, be it books or articles or news!
 
